@@ -1,6 +1,4 @@
-Name:Weicheng Yu
-
-Student Number: 101195054
+Name:Jenifer
 
 File lists:
 
